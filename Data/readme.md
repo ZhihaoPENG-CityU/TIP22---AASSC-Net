@@ -1,1 +1,0 @@
-The Canadian institute for advanced research database contains 60000 images with ten classes and $32 \times 32 \times 3$ size. In this paper, we used the feature representation provided by {https://github.com/zhangsz1998/Self-Expressive-Network/tree/main/datasets/CIFAR10-MCR2}.
