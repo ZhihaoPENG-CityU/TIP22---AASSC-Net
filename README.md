@@ -20,9 +20,9 @@ We appreciate it if you use this code and cite our paper, which can be cited as 
 + Python[3.7.7]
 
 # FAQ
-+ How to solve the error[ModuleNotFoundError: No module named 'tensorflow.contrib']
++ How to solve the error [ModuleNotFoundError: No module named 'tensorflow.contrib']
   +   As the contrib module doesn't exist in TF2.0, it is advised to use "tf.compat.v1.keras.initializers.he_normal()" as the initializer.
-+ How to solve the error[which is resulted from the case that TensorFlow 1.x migrated to 2.x]
++ How to solve the error [which is resulted from the case that TensorFlow 1.x migrated to 2.x]
   +   It is advised to use the "tf.compat.v1.XXX" for code compatibility processing.
-+ How to solve the error[RuntimeError: tf.placeholder() is not compatible with eager execution]
++ How to solve the error [RuntimeError: tf.placeholder() is not compatible with eager execution]
   +   It is advised to use the "tf.compat.v1.disable_eager_execution()".
