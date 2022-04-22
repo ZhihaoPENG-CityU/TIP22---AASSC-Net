@@ -5,7 +5,7 @@ URL_arXiv: https://arxiv.org/abs/2109.13742
 
 URL_IEEE: 
 
-We have added remarks in the code, the specific details can correspond to the explanation in the paper. The better clustering perfromance ca be obtained by fine-tuning the hyperparameters. For example, the hyperparameters of UMIST is: [reg1: 1000 reg2: 0.001 reg3: 0.1], where regs 1-3 denotes \lambda_1, \lambda_2, and \beta respectively in this paper.
+We have added remarks in the code, where the specific details can correspond to the explanation in the paper. A better clustering performance can be obtained by fine-tuning the hyperparameters. For example, the hyperparameters of UMIST is: [reg1: 1000 reg2: 0.001 reg3: 0.1], where regs 1-3 denotes \lambda_1, \lambda_2, and \beta respectively in this paper.
 
 We appreciate it if you use this code and cite our paper, which can be cited as follows,
 > @article{peng2021adaptive, <br>
