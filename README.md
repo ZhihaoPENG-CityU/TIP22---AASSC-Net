@@ -11,8 +11,9 @@ We appreciate it if you use this code and cite our paper, which can be cited as 
 > @article{peng2021adaptive, <br>
 >   title={Adaptive Attribute and Structure Subspace Clustering Network}, <br>
 >   author={Peng, Zhihao and Liu, Hui and Jia, Yuheng and Hou, Junhui},  <br>
->   journal={arXiv preprint arXiv:2109.13742},  <br>
->   year={2021} <br>
+>   journal={IEEE Transactions on Image Processing},  <br>
+>   year={2021}, <br>
+>   doi={10.1109/TIP.2022.3171421} <br>
 > } <br>
 
 # Environment
