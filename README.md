@@ -13,11 +13,12 @@ We appreciate it if you use this code and cite our paper, which can be cited as 
 >   author={Peng, Zhihao and Liu, Hui and Jia, Yuheng and Hou, Junhui},  <br>
 >   journal={IEEE Transactions on Image Processing},  <br>
 >   year={2022}, <br>
->   volume={}, <br> 
+>   volume={31}, <br> 
 >   number={}, <br> 
->   pages={1-1}, <br>
+>   pages={3430-3439}, <br>
 >   doi={10.1109/TIP.2022.3171421} <br>
 > } <br>
+
 
 # Environment
 + Tensorflow [2.8.0]
