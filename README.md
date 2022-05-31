@@ -9,7 +9,7 @@ Adaptive Attribute and Structure Subspace Clustering Network
 [visitors-img]: https://visitor-badge.glitch.me/badge?page_id=ZhihaoPENG-CityU.TIP22---AASSC-Net
 [aassc-url]: https://github.com/ZhihaoPENG-CityU/TIP22---AASSC-Net
 
-[![Made with Python][python-img]][adgc-url]
+[![Made with Python][python-img]][aassc-url]
 [![GitHub stars][stars-img]][stars-url]
 [![GitHub forks][fork-img]][fork-url]
 [![visitors][visitors-img]][aassc-url]
