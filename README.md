@@ -1,17 +1,19 @@
 # AASSC-Net
 Adaptive Attribute and Structure Subspace Clustering Network
 
-
+[python-img]: https://img.shields.io/github/languages/top/ZhihaoPENG-CityU/TIP22---AASSC-Net?color=lightgrey
 [stars-img]: https://img.shields.io/github/stars/ZhihaoPENG-CityU/TIP22---AASSC-Net?color=yellow
 [stars-url]: https://github.com/ZhihaoPENG-CityU/TIP22---AASSC-Net/stargazers
 [fork-img]: https://img.shields.io/github/forks/ZhihaoPENG-CityU/TIP22---AASSC-Net?color=lightblue&label=fork
 [fork-url]: https://github.com/ZhihaoPENG-CityU/TIP22---AASSC-Net/network/members
 [visitors-img]: https://visitor-badge.glitch.me/badge?page_id=ZhihaoPENG-CityU.TIP22---AASSC-Net
-[adgc-url]: https://github.com/ZhihaoPENG-CityU/TIP22---AASSC-Net
+[aassc-url]: https://github.com/ZhihaoPENG-CityU/TIP22---AASSC-Net
 
+[![Made with Python][python-img]][adgc-url]
 [![GitHub stars][stars-img]][stars-url]
 [![GitHub forks][fork-img]][fork-url]
-[![visitors][visitors-img]][adgc-url]
+[![visitors][visitors-img]][aassc-url]
+
 
 URL_arXiv: https://arxiv.org/abs/2109.13742
 
