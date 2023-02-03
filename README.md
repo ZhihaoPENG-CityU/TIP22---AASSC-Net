@@ -22,17 +22,15 @@ URL_IEEE: https://doi.org/10.1109/TIP.2022.3171421
 We have added remarks in the code, where the specific details can correspond to the explanation in the paper. A better clustering performance can be obtained by fine-tuning the hyperparameters. For example, the hyperparameters of UMIST is: [reg1: 1000 reg2: 0.001 reg3: 0.1], where regs 1-3 denotes \lambda_1, \lambda_2, and \beta respectively in this paper.
 
 We appreciate it if you use this code and cite our paper, which can be cited as follows,
-> @article{9769915, <br>
+> @article{peng2022adaptive, <br>
 >   title={Adaptive Attribute and Structure Subspace Clustering Network}, <br>
 >   author={Peng, Zhihao and Liu, Hui and Jia, Yuheng and Hou, Junhui},  <br>
 >   journal={IEEE Transactions on Image Processing},  <br>
 >   year={2022}, <br>
 >   volume={31}, <br> 
->   number={}, <br> 
 >   pages={3430-3439}, <br>
 >   doi={10.1109/TIP.2022.3171421} <br>
 > } <br>
-
 
 # Environment
 + Tensorflow [2.8.0]
