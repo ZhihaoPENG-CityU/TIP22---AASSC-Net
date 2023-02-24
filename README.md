@@ -17,7 +17,7 @@ Adaptive Attribute and Structure Subspace Clustering Network
 
 URL_arXiv: https://arxiv.org/abs/2109.13742
 
-URL_IEEE: https://doi.org/10.1109/TIP.2022.3171421
+URL_IEEE: https://ieeexplore.ieee.org/iel7/83/9626658/09769915.pdf
 
 We have added remarks in the code, where the specific details can correspond to the explanation in the paper. A better clustering performance can be obtained by fine-tuning the hyperparameters. For example, the hyperparameters of UMIST is: [reg1: 1000 reg2: 0.001 reg3: 0.1], where regs 1-3 denotes \lambda_1, \lambda_2, and \beta respectively in this paper.
 
